@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
 
 <p align="center">Welcome to my page! </br>
-I'm Kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <b>Tema, Ghana</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
+I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <b>Tema, Ghana</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
 
 <h3 align="center">🛠️ Things I code with 🛠️</h3>
 
@@ -19,16 +19,12 @@ I'm Kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
   <img alt="python" src="https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge">
   <img alt="CSS3" src="https://img.shields.io/badge/CSS%203-%231572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="Vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-%23150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img alt="Numpy" src="https://img.shields.io/badge/Numpy-%23013243?logo=numpy&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white&style=for-the-badge">
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white&style=for-the-badge" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-%233FCF8E?logo=Supabase&logoColor=white&style=for-the-badge" />
-  <img alt="Render" src="https://img.shields.io/badge/Render-%23a45b81?logo=render&logoColor=white&style=for-the-badge" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23B7178C?logo=vercel&logoColor=white&style=for-the-badge" />
-  <img alt="Django rest" src="https://img.shields.io/badge/Django%20Rest%20Framework-%23EF323D?logo=django&logoColor=white&style=for-the-badge">
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHUb" src="https://img.shields.io/badge/GitHub-%23F37626?logo=github&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
@@ -55,25 +51,25 @@ I'm Kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/juliusmarkwei/ecommerce-backend"><b>Ecommerce Backend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/ecommerce-backend"><b>Ecommerce Backend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/juliusmarkwei/auth-system"><b>Authentication System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/auth-system?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/auth-system"><b>Authentication System</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/juliusmarkwei/Key-Indicators-of-Heart-Disease"><b>ML Prediction on Some Key Indicators of Heart Disease</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/juliusmarkwei/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/Key-Indicators-of-Heart-Disease"><b>ML Prediction on Some Key Indicators of Heart Disease</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
@@ -81,7 +77,7 @@ I'm Kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <section style="text-align: center; display: block; margin: 0 auto;">
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;"><img width=400 src="https://streak-stats.demolab.com/?user=laudkyle&theme=dark&border=61dafb&hide_border=true" alt="laudkyle" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=juliusmarkwei&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="juliusmarkwei's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusmarkwei&layout=compact&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;"><img width=400 src="https://streak-stats.demolab.com/?user=laudkyle&theme=dark&border=61dafb&hide_border=true" alt="laudkyle" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=laudkyle&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="laudkyle's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudkyle&layout=compact&theme=dark&hide_border=true" /></a>
 </section>
 	
 <br/>
@@ -90,7 +86,7 @@ I'm Kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
 
 <h3 align="center"> 🤙🏾 &nbsp;Where to find me </h3>
 
-<p align="center"><a href="https://github.com/laudkyle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mrj_in_person" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/juliusmarkwei" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/juliusmarkwei" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:juliusmarkwei2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/laudkyle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/mrj_in_person" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/laudkyle" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/laudkyle" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:laudkyle2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
 
 </body>
 </html>
