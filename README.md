@@ -51,11 +51,11 @@ I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/laudkyle/ecommerce-backend"><b>Ecommerce Backend</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/ecommerce-backend?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/add-life"><b>Ecommerce Backend</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/laudkyle/auth-system"><b>Authentication System</b></a></td>
