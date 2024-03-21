@@ -4,7 +4,7 @@
 </head>
 	
 <body>
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! Nice to see you.</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hola!!! Mucho gusto</h1>
 
 <p align="center">Welcome to my page! </br>
 I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learning</b> experience from <b>Tema, Ghana</b>, currently schooling at the <b>University of Cape Coast</b>. </p>
@@ -86,7 +86,7 @@ I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
 
 <h3 align="center"> 🤙🏾 &nbsp;Where to find me </h3>
 
-<p align="center"><a href="https://github.com/laudkyle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/laud_kyle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/laudkyle" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/laudkyle" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:laudkyle2000@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://wa.link/zvidro" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a></p>
+<p align="center"><a href="https://github.com/laudkyle" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/laud_kyle" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a><a href="https://www.linkedin.com/in/laudkyle" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://www.kaggle.com/laudkyle" target="_blank"><img alt="kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a> <a href="mailto:kyleaby1@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a></p>
 
 </body>
 </html>
