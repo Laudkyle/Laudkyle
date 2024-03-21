@@ -51,25 +51,25 @@ I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/laudkyle/add-life"><b>Ecommerce Backend</b></a></td>
+      <td><a href="https://github.com/laudkyle/add-life"><b>Cancer website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/add-life?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
-      <td><a href="https://github.com/laudkyle/auth-system"><b>Authentication System</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/auth-system?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/Navi"><b>Navigation system for the blind</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/Navi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/Navi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/Navi?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/Navi?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/laudkyle/Key-Indicators-of-Heart-Disease"><b>ML Prediction on Some Key Indicators of Heart Disease</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/Key-Indicators-of-Heart-Disease?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/laudkyle/cancer_db"><b>Cancer chatbot</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/laudkyle/cancer_db?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/laudkyle/cancer_db?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/laudkyle/cancer_db?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/laudkyle/cancer_db?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
