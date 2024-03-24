@@ -37,7 +37,7 @@ I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-%23dadb24?logo=javascript&logoColor=white&style=for-the-badge" />
   <br>
 </p>
-
+ [![Kyle's activity graph](https://github-readme-activity-graph.vercel.app/graph?username=laudkyle&theme=react-dark&area=true&height=500&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <h3 align="center">🏆 Open source projects 🏆</h3>
 <table align="center">
   <thead align="center">
