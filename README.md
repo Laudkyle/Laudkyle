@@ -77,7 +77,7 @@ I'm kyle, a <b>Backend Engineer</b> with <b>Machine Learning</b> & <b>Deep Learn
 <h3 align="center">⚡ Stats ⚡</h3>
 
 <section style="text-align: center; display: block; margin: 0 auto;">
-  <a href="https://github.com/laudkyle" style="text-align: center;"><img width=400 src="https://streak-stats.demolab.com/?user=laudkyle&theme=dark&border=61dafb&hide_border=true" alt="laudkyle" /></a>  <a style="text-align: center;" href="https://github.com/laudkyle"><img width=400 src="https://github-readme-stats.vercel.app/api?username=laudkyle&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="laudkyle's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudkyle&layout=compact&theme=dark&hide_border=true" /></a>
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" style="text-align: center;"><img width=400 src="https://streak-stats.demolab.com/?user=laudkyle&theme=dark&border=61dafb&hide_border=true" alt="laudkyle" /></a>  <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=400 src="https://github-readme-stats.vercel.app/api?username=laudkyle&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="laud's github stats" /></a> <a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats"><img width=350 src="https://github-readme-stats.vercel.app/api/top-langs/?username=laudkyle&layout=compact&theme=dark&hide_border=true" /></a>
 </section>
 	
 <br/>
